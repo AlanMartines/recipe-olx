@@ -1,0 +1,14 @@
+{
+  "id": "olx",
+  "name": "OLX",
+  "version": "1.0.0",
+  "description": "OLX - O Maior Site de Compra e Venda do Brasil",
+  "main": "index.js",
+  "author": "Alan Martines <alancpmartines@hotmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/alanmartines/recipe-olx",
+  "config": {
+    "serviceURL": "https://www.olx.com.br/",
+    "hasNotificationSound": true
+  }
+}
